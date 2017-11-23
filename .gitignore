@@ -6,5 +6,4 @@
 .idea/
 /node_modules
 *.log
-dist/build.txt
-bower_components
+dist/
